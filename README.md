@@ -46,5 +46,38 @@ These are two suggested compilers:
 
 5- Quiz1 (Oct_9_2024)
 
-```
-```
+### Sample Questions About C
+
+This document shows some basic exercises in C programming language.
+Using C code, write a program that:
+1- Finds number of occurrence of a letter in a given string.
+Example: Occurrence of the letter ‘a’ in the string “Hassan Ali”. Output 2
+
+2- Finds a pattern in a given string.
+Example: Pattern “Ali” in the string “Hassan Ali”. Output: pattern is found at index 7.
+
+3- Finds max number in an array of integers.
+Example: The array [2,6,7,2,0,9]. Output: Max is 9
+
+4- Reverses the order of a given array.
+Example: The array [2,6,7,2,0,9]. Output [9,0,2,7,6,2]
+
+5- Calculates total of a given array of integers.
+Example: The array [2,6,7,2,0,9]. Output: 26
+
+6- Prints a pyramid of “*”, where the based length is selected by the user.
+Example: the program shows: Enter the length of the base: user enters 4
+The program outputs:
+*
+**
+***
+****
+
+
+7- Sort a given array.
+Example: [2,6,7,0,9]. Output: [0,2,6,7,9]
+
+8- Calculates Fibonacci sequence.
+[Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence)
+
+9- 
