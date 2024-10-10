@@ -11,7 +11,8 @@ Solutions for the reference:
 Additional Lectures by MIT Press:
 [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/)
 
-## General Notes About This Course ([ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md ))
+## General Notes About This Course 
+[ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md )
 
 
 ## Lectures
