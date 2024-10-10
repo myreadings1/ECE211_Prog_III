@@ -46,6 +46,16 @@ These are two suggested compilers:
 
 5- Quiz1 (Oct_9_2024)
 
+
+### Homeworks
+
+1- HW1
+
+2- HW2
+
+3- HW3
+
+
 ### Sample Questions About C
 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Exercises)
