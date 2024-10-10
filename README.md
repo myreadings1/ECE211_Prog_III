@@ -24,5 +24,7 @@ Additional Lectures by MIT Press:
 
 4- Pointers and Files in C (Oct_8_2024)
 
+5- Quiz1 (Oct_9_2024)
+
 ```
 ```
