@@ -78,10 +78,10 @@ The program outputs:
  '* * * *'
 
 
-7- Sort a given array.
+7- Sorts a given array.
 Example: [2,6,7,0,9]. Output: [0,2,6,7,9]
 
 8- Calculates Fibonacci sequence.
 [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 
-9- 
+9- Finds GCD For Two Numbers in C.
