@@ -26,10 +26,12 @@ A- You may install C compiler on your computer machine:
 [ReadMe](https://askubuntu.com/questions/693650/how-do-i-run-my-c-program)
 
 B- You may use online C compilers.
-These are two suggested compilers: 
-1- [ReadMe](https://www.programiz.com/c-programming/online-compiler/)
 
-2- [ReadMe](https://onecompiler.com/c)
+These are two suggested compilers: 
+
+1- [Online Compiler 1](https://www.programiz.com/c-programming/online-compiler/)
+
+2- [Online Compiler 2](https://onecompiler.com/c)
 
 
 ### Lectures
