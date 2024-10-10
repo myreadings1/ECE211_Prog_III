@@ -11,7 +11,7 @@ https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions
 Additional resources
 https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/lecture-notes/
 
-## General Notes About This Course ([link](doc:https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md ))
+## General Notes About This Course ([ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md ))
 
 
 ## Lectures
