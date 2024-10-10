@@ -78,4 +78,4 @@ These are two suggested compilers:
 [C Pointers Arrays](https://www.programiz.com/c-programming/c-pointers-arrays)
 
 
-https://www.programiz.com/c-programming/c-file-input-output
+[Files in C](https://www.programiz.com/c-programming/c-file-input-output)
