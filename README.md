@@ -68,6 +68,7 @@ Example: The array [2,6,7,2,0,9]. Output: 26
 6- Prints a pyramid of “*”, where the based length is selected by the user.
 Example: the program shows: Enter the length of the base: user enters 4
 The program outputs:
+
 *
 **
 ***
