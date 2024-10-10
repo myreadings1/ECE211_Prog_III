@@ -70,9 +70,9 @@ Example: the program shows: Enter the length of the base: user enters 4
 The program outputs:
 
 - *
-- **
-- ***
-- ****
+- * *
+- * * *
+- * * * *
 
 
 7- Sort a given array.
