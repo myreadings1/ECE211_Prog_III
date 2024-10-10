@@ -14,22 +14,22 @@ Additional Lectures by MIT Press:
 ### General Notes About This Course 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/General_Notes.md )
 
-### How To Install C Compiler on You Machine?
+### How To Run C Program? 
 
-To answer this question:
+A- You may install C compiler on your computer machine:
 
-A- if you run a windows computer and visual studio, use the description in the following link:
+1- if you run a windows computer and visual studio, use the description in the following link:
 [ReadMe](https://code.visualstudio.com/docs/cpp/config-mingw)
 
 
-B- if you run Ubuntu (Linux), use the following link:
+2- if you run Ubuntu (Linux), use the following link:
 [ReadMe](https://askubuntu.com/questions/693650/how-do-i-run-my-c-program)
 
-C- Online C Compiler:
+B- You may use online C compilers.
+These are two suggested compilers: 
+1- [ReadMe](https://www.programiz.com/c-programming/online-compiler/)
 
-[ReadMe](https://www.programiz.com/c-programming/online-compiler/)
-
-[ReadMe](https://onecompiler.com/c)
+2- [ReadMe](https://onecompiler.com/c)
 
 
 ### Lectures
