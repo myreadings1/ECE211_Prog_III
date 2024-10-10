@@ -35,3 +35,39 @@ Example: [2,6,7,0,9]. Output: [0,2,6,7,9]
 [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 
 9- Finds GCD For Two Numbers in C.
+
+Quiz1 
+
+Q1: Circle all suitable answers: (25 Marks)
+
+(A) For a write operation, computer’s CPU sends to the memory:
+(1) Index of the for loop (i and j). (2) Address and (W/R) signal. (3) Data, address, and
+(W/R) signal. (4) None of the above.
+
+(B) For a read operation, computer CPU sends to the memory:
+(1) Index of the for loop (i and j). (2) Address and (W/R) signal. (3) Data, address, and
+(W/R) signal. (4) None of the above.
+
+(C) At the execution time, the CPU usually accesses the instruction memory for read and
+write operations. (True or False)
+
+(D) A do-while loop may execute non or more C statements. (True or False)
+
+(E) Did you try to manipulate characters as integers in C? What was the results?
+(1) Index of the for loop (i and j). (2) Address and (W/R) signal. (3) Data, address, and
+(W/R) signal. (4) None of the above.
+
+Q2: (25 Marks)
+
+Write a C code program that accepts a sentence from a user and calculates number of capital
+and small letters. Note the following ASCII codes: A=65, Z=90, a=97, z=122.
+
+Q3: (25 Marks)
+
+Fibonacci sequence is defined as: Fn = Fn−1 + Fn−2, where F0 = 0 and F1 = 1. Write a C
+code program that: (1) accepts user’s input as n and calculate the Fibonacci sequence; and
+(2) accepts user’s input as k and outputs the closet n. Example: F9=34, F10=55, if user
+input is k=50, then the program outputs n = 10 because 50 is closer to F10 =55 than F9=
+34.
+
+Q4: (25 Marks) Write a C code program that calculates sum of a given array of doubles.
