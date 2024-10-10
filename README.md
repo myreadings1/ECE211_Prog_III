@@ -59,3 +59,23 @@ These are two suggested compilers:
 ### Sample Questions About C
 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Exercises)
+
+
+### Nice Topics About C Programming
+
+
+[Arrays in C](https://www.programiz.com/c-programming/c-arrays)
+
+[do-while loops in C](https://www.programiz.com/c-programming/c-do-while-loops)
+
+
+[if-else statement in C](https://www.programiz.com/c-programming/c-if-else-statement)
+
+
+[Pointers in C](https://www.programiz.com/c-programming/c-pointers)
+
+
+[C Pointers Arrays](https://www.programiz.com/c-programming/c-pointers-arrays)
+
+
+https://www.programiz.com/c-programming/c-file-input-output
