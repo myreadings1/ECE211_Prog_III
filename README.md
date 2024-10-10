@@ -69,10 +69,10 @@ Example: The array [2,6,7,2,0,9]. Output: 26
 Example: the program shows: Enter the length of the base: user enters 4
 The program outputs:
 
-*
-**
-***
-****
+'*'
+'**'
+'***'
+'****'
 
 
 7- Sort a given array.
