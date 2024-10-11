@@ -61,8 +61,12 @@ These are two suggested compilers:
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Exercises)
 
 
-### Nice Topics About C Programming
+### Nice Topics About Learning C Programming
 
+
+[Video 1](https://youtu.be/ssJY5MDLjlo?si=PO0YGZ0V0G6O9PVt)
+
+[Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
 
 [Arrays in C](https://www.programiz.com/c-programming/c-arrays)
 
