@@ -6,19 +6,21 @@ The main menu of your program looks like:
 Hello.. This is a simple calculator in C.
 Please Select:
 1- Enter Arithmetic Operation 
-2- Exit 
+2- Display The History 
+3- Exit 
 
 If user selects 1, the following shows up:
 Enter two numbers: 
 
-User input: 1+7
+User input: 2×7
 2×7=14
 
 Please Select:
 1- Enter Arithmetic Operation 
-2- Exit 
+2- Display The History 
+3- Exit 
 
-
+If user selects 2, the program displays the save history in the file (calculator_history.txt).
 
 
 
