@@ -55,7 +55,7 @@ These are two suggested compilers:
 
 3- HW3
 
-4- [HW4]()
+4- [HW4 Due on Wed Oct16,2024](https://github.com/myreadings1/ECE211_Prog_III/blob/main/hw4.md)
 
 
 ### Sample Questions About C
