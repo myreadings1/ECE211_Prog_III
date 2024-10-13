@@ -62,6 +62,10 @@ These are two suggested compilers:
 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Exercises)
 
+### Nice Examples in C
+
+[ReadMe](https://www.programiz.com/c-programming/examples)
+
 
 ### Nice Topics About Learning C Programming
 
