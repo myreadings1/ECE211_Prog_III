@@ -40,11 +40,13 @@ These are two suggested compilers:
 
 2- Data types in C (Sep_24_2024)
 
-3- Control Statements in C: Conditional and Loops (Oct_1_2024)
+3- Control Statements in C: Conditional if else and Loops (Oct_1_2024)
 
-4- Pointers and Files in C (Oct_8_2024)
+4- Functions and Arrays in C..
 
-5- Quiz1 (Oct_9_2024)
+5- Pointers and Files in C (Oct_8_2024)
+
+-- Quiz1 45 min in the C Lab(Oct_9_2024)
 
 
 ### Homeworks
