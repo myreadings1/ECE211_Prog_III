@@ -1,5 +1,5 @@
 # ECE211_Prog_III
-This webpage is for the student of ECE211 Prog III class, with the University of Kufa.
+This webpage is dedicated for the students of ECE211 Prog III class, with the University of Kufa.
 
 ### References
 
@@ -48,10 +48,9 @@ These are two suggested compilers:
 
 -- Quiz1 45 min in the C Lab(Oct_9_2024)
 
-6- Multi dimensional array in C 
-structure in C
+6- Structures in C
 
-7- Structure in C 
+
 
 
 ### Homeworks
