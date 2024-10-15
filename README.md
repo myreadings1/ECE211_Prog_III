@@ -48,6 +48,9 @@ These are two suggested compilers:
 
 -- Quiz1 45 min in the C Lab(Oct_9_2024)
 
+6- Multi dimensional array in C 
+structure in C
+
 
 ### Homeworks
 
@@ -91,3 +94,5 @@ These are two suggested compilers:
 
 
 [Files in C](https://www.programiz.com/c-programming/c-file-input-output)
+https://www.programiz.com/c-programming/c-structures)
+[Structure in C](
