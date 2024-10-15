@@ -83,8 +83,7 @@ structure in C
 
 [Read/Write structure to file 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
 
-[Read/Write structure to file 2]
-(https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
+[Read/Write structure to file 2](https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
 
 [Arrays in C](https://www.programiz.com/c-programming/c-arrays)
 
