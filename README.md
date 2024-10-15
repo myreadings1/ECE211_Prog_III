@@ -51,6 +51,8 @@ These are two suggested compilers:
 6- Multi dimensional array in C 
 structure in C
 
+7- Structure in C 
+
 
 ### Homeworks
 
@@ -78,6 +80,11 @@ structure in C
 [Video 1](https://youtu.be/ssJY5MDLjlo?si=PO0YGZ0V0G6O9PVt)
 
 [Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
+
+[Read/Write structure to file 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
+
+[Read/Write structure to file 2]
+(https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
 
 [Arrays in C](https://www.programiz.com/c-programming/c-arrays)
 
