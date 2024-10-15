@@ -64,6 +64,8 @@ structure in C
 
 4- [HW4 Due on Wed Oct16,2024](https://github.com/myreadings1/ECE211_Prog_III/blob/main/hw4.md)
 
+5- HW5 Due on Wed Oct23,2025.
+
 
 ### Sample Questions About C
 
