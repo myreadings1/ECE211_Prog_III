@@ -77,13 +77,13 @@ structure in C
 ### Nice Topics About Learning C Programming
 
 
-[Video 1](https://youtu.be/ssJY5MDLjlo?si=PO0YGZ0V0G6O9PVt)
+[C for Beginners Video 1](https://youtu.be/ssJY5MDLjlo?si=PO0YGZ0V0G6O9PVt)
 
-[Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
+[C for Beginners Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
 
-[Read/Write structure to file 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
+[Read/Write structure to file video 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
 
-[Read/Write structure to file 2](https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
+[Read/Write structure to file video 2](https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
 
 [Arrays in C](https://www.programiz.com/c-programming/c-arrays)
 
@@ -99,6 +99,8 @@ structure in C
 [C Pointers Arrays](https://www.programiz.com/c-programming/c-pointers-arrays)
 
 
-[Files in C](https://www.programiz.com/c-programming/c-file-input-output)
+[Read Write to Files in C](https://www.programiz.com/c-programming/c-file-input-output)
 
 [Structure in C](https://www.programiz.com/c-programming/c-structures)
+
+[Structure in C Using Pointers](https://www.programiz.com/c-programming/c-structures-pointers)
