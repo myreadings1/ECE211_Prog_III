@@ -100,5 +100,5 @@ structure in C
 
 
 [Files in C](https://www.programiz.com/c-programming/c-file-input-output)
-https://www.programiz.com/c-programming/c-structures)
-[Structure in C](
+
+[Structure in C](https://www.programiz.com/c-programming/c-structures)
