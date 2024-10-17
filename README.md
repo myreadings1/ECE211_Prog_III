@@ -82,6 +82,10 @@ These are two suggested compilers:
 
 [C for Beginners Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
 
+
+[Pointers in C Easy Video](
+https://youtu.be/W7KmFeGrLsE?si=GZQFV_uWdv5VoxSv)
+
 [Read/Write structure to file video 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
 
 [Read/Write structure to file video 2](https://youtu.be/QrKpqdBiFRI?si=xIYWDEDOFL0qU-dI)
