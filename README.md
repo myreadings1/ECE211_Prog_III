@@ -1,4 +1,4 @@
-# ECE211_Prog_III
+# ECE211 Computer Programming III 
 This webpage is dedicated for the students of ECE211 Prog III class, with the University of Kufa.
 
 ### References
@@ -58,7 +58,7 @@ These are two suggested compilers:
 
 10- Data Structures Cont. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec07/)
 
-11- Memory allocation in C
+11- Memory allocation in C. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec11/)
 
 12- Communication Channels in C 
 
