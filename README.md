@@ -52,11 +52,15 @@ These are two suggested compilers:
 
 7- Structures, Accessing Structure via Pointer in C
 
-8- Search and Sort Algorithms in C. [ReadMe] (https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec05/)
+8- Search and Sort Algorithms in C. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec05/)
 
-9- Memory allocation in C
+9- Data Structures in C. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec06/)
 
-10- Communication Channels in C 
+10- Data Structures Cont. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec07/)
+
+11- Memory allocation in C
+
+12- Communication Channels in C 
 
 
 
