@@ -93,7 +93,7 @@ These are two suggested compilers:
 [ReadMe](https://youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90&si=YL6VCH9CN-ZuJPXq)
 
 
-### Nice Topics About Learning C Programming
+### Examples For Learning C Programming
 
 
 [C for Beginners Video 1](https://youtu.be/ssJY5MDLjlo?si=PO0YGZ0V0G6O9PVt)
