@@ -44,17 +44,15 @@ These are two suggested compilers:
 
 4- Functions in C 
 
-5- Arrays in C..
+5- Arrays and Pointers in C..
 
-6- Pointers 
-
-7- Files in C (Oct_8_2024)
+6- Files in C (Oct_8_2024)
 
 -- Quiz1 45 min in the C Lab(Oct_9_2024)
 
-7- Structures in C
+7- Structures, Accessing Structure via Pointer in C
 
-8- Access Structure via Pointer in C
+8- Search and Sort Algorithms in C. [ReadMe] (https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec05/)
 
 9- Memory allocation in C
 
