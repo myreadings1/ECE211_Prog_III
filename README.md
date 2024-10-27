@@ -3,7 +3,7 @@ This webpage is dedicated for the students of ECE211 Prog III class, with the Un
 
 ### References
 
-The Refrence Textbook: [ReadMe](https://github.com/Embed-Threads/Learn-C/blob/main/books/c-programming-a-modern-approach-2nbsped-0393979504-9780393979503_compress.pdf)
+The Refrence Textbook: C Programming: A Modern Approach, by K.N King. [ReadMe](https://github.com/Embed-Threads/Learn-C/blob/main/books/c-programming-a-modern-approach-2nbsped-0393979504-9780393979503_compress.pdf)
 
 Solutions for the reference:
 [ReadMe](https://github.com/SuperMoudy/C-programming-A-Modern-Approach-2nd-ed-Solutions)
@@ -83,13 +83,14 @@ These are two suggested compilers:
 5- [HW5 Due on Wed Oct23,2025](https://github.com/myreadings1/ECE211_Prog_III/blob/main/hw5.md).
 
 
-### Sample Questions About C
+
+### Examples in C
+
+[ReadMe](https://www.programiz.com/c-programming/examples)
 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Exercises)
 
-### Nice Examples in C
-
-[ReadMe](https://www.programiz.com/c-programming/examples)
+[ReadMe](https://youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90&si=YL6VCH9CN-ZuJPXq)
 
 
 ### Nice Topics About Learning C Programming
@@ -99,11 +100,7 @@ These are two suggested compilers:
 
 [C for Beginners Video 2](https://youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e&si=kfL_nHn2qLoTpiN3)
 
-
-[Pointers in C Easy Video](
-https://youtu.be/W7KmFeGrLsE?si=GZQFV_uWdv5VoxSv)
-
-[Nice Examples About C](https://youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90&si=YL6VCH9CN-ZuJPXq)
+[Pointers in C Easy Video](https://youtu.be/W7KmFeGrLsE?si=GZQFV_uWdv5VoxSv)
 
 [Read/Write structure to file video 1](https://youtu.be/0SkdAoVzWpk?si=qH_lY08JWDAg9ugh)
 
@@ -113,15 +110,11 @@ https://youtu.be/W7KmFeGrLsE?si=GZQFV_uWdv5VoxSv)
 
 [do-while loops in C](https://www.programiz.com/c-programming/c-do-while-loops)
 
-
 [if-else statement in C](https://www.programiz.com/c-programming/c-if-else-statement)
-
 
 [Pointers in C](https://www.programiz.com/c-programming/c-pointers)
 
-
 [C Pointers Arrays](https://www.programiz.com/c-programming/c-pointers-arrays)
-
 
 [Read Write to Files in C](https://www.programiz.com/c-programming/c-file-input-output)
 
