@@ -51,8 +51,6 @@ These are two suggested compilers:
 
 6- Files in C (Oct_8_2024)
 
--- Quiz1 45 min in the C Lab(Oct_9_2024)
-
 7- Structures, Accessing Structure via Pointer in C
 
 8- Search and Sort Algorithms in C. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec05/)
@@ -65,7 +63,12 @@ These are two suggested compilers:
 
 12- Communication Channels in C 
 
+### Exams
+1- Quiz1 45 min in the C Lab(Oct_9_2024)
 
+2- Quiz2 30 min in the C Lab(Oct_30_2024)
+
+3- Midterm Exam 120 min (Nov_5th_2024)
 
 ### List of Sample Projects
 A mini project is one of the requirment for this course. A student is required to implement a mini project. Here is a list of sample projects: 
