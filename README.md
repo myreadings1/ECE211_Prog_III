@@ -65,9 +65,7 @@ These are two suggested compilers:
 
 
 ### List of Sample Projects
-1-
-
-2- 
+[ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Projects_Topics__C.pdf) 
 
 
 ### Homeworks
