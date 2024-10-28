@@ -70,6 +70,7 @@ A mini project is one of the requirment for this course. A student is required t
 
 
 ### Homeworks
+For this course, the homework policy states that a late submission might be accepted, and might not, and graded for 50% of the homework grade. 
 
 1- HW1
 
