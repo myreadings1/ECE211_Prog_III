@@ -1,6 +1,9 @@
 # ECE211 Computer Programming III 
 This webpage is dedicated for the students of ECE211 Prog III class, with the University of Kufa.
 
+
+
+
 ### References
 
 The Refrence Textbook: C Programming: A Modern Approach, by K.N King. [ReadMe](https://github.com/Embed-Threads/Learn-C/blob/main/books/c-programming-a-modern-approach-2nbsped-0393979504-9780393979503_compress.pdf)
@@ -70,7 +73,7 @@ A mini project is one of the requirment for this course. A student is required t
 
 
 ### Homeworks
-For this course, the homework policy states that a late submission might be accepted, and might not, and graded for 50% of the homework grade. 
+For this course, the homework policy states that a late submission might be accepted, and might not, and graded for 50% of the homework grade. If a homework contain some C code, then a student needs to send a text-file code to the Instructor. 
 
 1- HW1
 
