@@ -65,6 +65,7 @@ These are two suggested compilers:
 
 
 ### List of Sample Projects
+A mini project is one of the requirment for this course. A student is required to implement a mini project. Here is a list of sample projects: 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Projects_Topics__C.pdf) 
 
 
