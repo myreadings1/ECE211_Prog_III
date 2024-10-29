@@ -70,6 +70,12 @@ These are two suggested compilers:
 
 3- Midterm Exam 120 min (Nov_5th_2024)
 
+5- Mini project exam (Lab exam)
+
+6- Final Exam (paper work)
+
+7- Final exam (Lab exam)
+
 ### List of Sample Projects
 A mini project is one of the requirment for this course. A student is required to implement a mini project. Here is a list of sample projects: 
 [ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Projects_Topics__C.pdf) 
