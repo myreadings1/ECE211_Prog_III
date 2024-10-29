@@ -133,3 +133,7 @@ For this course, the homework policy states that a late submission might be acce
 [Structure in C](https://www.programiz.com/c-programming/c-structures)
 
 [Structure in C Using Pointers](https://www.programiz.com/c-programming/c-structures-pointers)
+
+[Linked list - introduction](https://www.programiz.com/dsa/linked-list)
+
+[Linked list](https://www.programiz.com/dsa/linked-list-operations)
