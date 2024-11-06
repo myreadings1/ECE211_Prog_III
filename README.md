@@ -137,3 +137,7 @@ For this course, the homework policy states that a late submission might be acce
 [Linked list - introduction](https://www.programiz.com/dsa/linked-list)
 
 [Linked list](https://www.programiz.com/dsa/linked-list-operations)
+
+[Implement stack with array in C](https://www.digitalocean.com/community/tutorials/stack-in-c)
+
+[implement queue with array in C](https://www.digitalocean.com/community/tutorials/queue-in-c)
