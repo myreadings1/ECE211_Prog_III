@@ -70,11 +70,18 @@ These are two suggested compilers:
 
 3- Midterm Exam 120 min (Nov_5th_2024)
 
-4- Mini project exam (Lab exam)
+4- Midterm2 Exam 120 min (Dec 4th, 2024)
 
 5- Final Exam (paper work)
 
 6- Final exam (Lab exam)
+
+### Mini Project
+
+Mini Project implementation (Lab implementation)
+
+Due Date: Anytime between Nov 13, 2024 up to Dec 18, 2024..
+
 
 ### List of Sample Projects
 A mini project is one of the requirment for this course. A student is required to implement a mini project. Here is a list of sample projects: 
