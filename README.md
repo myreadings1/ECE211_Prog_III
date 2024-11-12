@@ -66,15 +66,16 @@ These are two suggested compilers:
 ### Exams
 1- Quiz1 45 min in the C Lab(Oct_9_2024)
 
-2- Quiz2 30 min in the C Lab(Oct_30_2024)
+2- Midterm Exam 120 min (Nov_5th_2024)
 
-3- Midterm Exam 120 min (Nov_5th_2024)
+3- Quiz2 Nov 26th, 2024..
 
 4- Midterm2 Exam 120 min (Dec 4th, 2024)
 
 5- Final Exam (paper work)
 
 6- Final exam (Lab exam)
+
 
 ### Mini Project
 
