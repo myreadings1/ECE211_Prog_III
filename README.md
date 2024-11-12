@@ -142,10 +142,15 @@ For this course, the homework policy states that a late submission might be acce
 
 [implement Queue with array in C](https://www.digitalocean.com/community/tutorials/queue-in-c)
 
-[Implement Queue with Linked List in C](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_Implementation_LinkedList.md)
+[Lecture Nov 12, 2024. Implement Queue with Linked List in C](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_Implementation_LinkedList.md)
 
-[Implement Stack with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_with_LinkedList.md)
+[Lecture Nov 12, 2024. Implement Stack with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_with_LinkedList.md)
 
-[C Programming Exercises, Practice, Solution : Stack (1)](https://www.w3resource.com/c-programming-exercises/stack/index.php)
+[C Programming Exercises, Practice, Solution: Stack (1)](https://www.w3resource.com/c-programming-exercises/stack/index.php)
 
-[C Programming Exercises, Practice, Solution : Stack (2)](https://www.geeksforgeeks.org/top-50-problems-on-stack-data-structure-asked-in-interviews/)
+[C Programming Exercises, Practice, Solution: Stack (2)](https://www.geeksforgeeks.org/top-50-problems-on-stack-data-structure-asked-in-interviews/)
+
+[C Programming Exercises, Practice, Solution: Queue (1)](https://www.w3resource.com/c-programming-exercises/queue/index.php)
+
+[C Programming Exercises, Practice, Solution: Queue (2)](https://www.geeksforgeeks.org/top-50-problems-on-queue-data-structure-asked-in-sde-interviews/)
+
