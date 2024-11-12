@@ -143,3 +143,5 @@ For this course, the homework policy states that a late submission might be acce
 [implement Queue with array in C](https://www.digitalocean.com/community/tutorials/queue-in-c)
 
 [Implement Queue with Linked List in C](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_Implementation_LinkedList.md)
+
+[Implement Stack with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_with_LinkedList.md)
