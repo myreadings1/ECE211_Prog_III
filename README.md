@@ -161,3 +161,10 @@ For this course, the homework policy states that a late submission might be acce
 [C Programming Exercises, Practice, Solution: Queue (1)](https://www.w3resource.com/c-programming-exercises/queue/index.php)
 
 [C Programming Exercises, Practice, Solution: Queue (2)](https://www.geeksforgeeks.org/top-50-problems-on-queue-data-structure-asked-in-sde-interviews/)
+
+### Important Topics
+
+1- [Stack with Linked List] (https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_LinkedList_v1.c)
+2- [Stack with Array] (https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_Array_v3.c)
+3- [Queue with Linked List] (https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_LinkedList_v1.c)
+1- [Midterm Question] (https://github.com/myreadings1/ECE211_Prog_III/blob/main/Midterm_Question_CopyLinkedListToArray.md)
