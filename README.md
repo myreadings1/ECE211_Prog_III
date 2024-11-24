@@ -166,8 +166,8 @@ For this course, the homework policy states that a late submission might be acce
 
 1- [Stack with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_LinkedList_v1.c)
 
-2- [Stack with Array](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_Array_v3.c)
+2- [Queue with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_LinkedList_v1.c)
 
-3- [Queue with Linked List](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Queue_LinkedList_v1.c)
+3- [Stack with Array](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Stack_Array_v3.c)
 
 4- [Midterm Question](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Midterm_Question_CopyLinkedListToArray.md)
