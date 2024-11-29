@@ -86,11 +86,6 @@ Mini Project implementation (Lab implementation).. [Download the PDF file](https
 
 
 
-### List of Sample Projects
-A mini project is one of the requirment for this course. A student is required to implement a mini project. Here is a list of sample projects: 
-[ReadMe](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Projects_Topics__C.pdf) 
-
-
 ### Homeworks
 For this course, the homework policy states that a late submission might be accepted, and might not, and graded for 50% of the homework grade. If a homework contain some C code, then a student needs to send a text-file code to the Instructor. 
 
