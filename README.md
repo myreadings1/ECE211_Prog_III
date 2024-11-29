@@ -66,9 +66,9 @@ These are two suggested compilers:
 ### Exams
 1- Quiz1 45 min in the C Lab(Oct_9_2024)
 
-2- Midterm Exam 120 min (Nov_5th_2024)[Sample A](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-5.pdf), [Sample B](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-6.pdf)
+2- Midterm Exam 120 min (Nov_5th_2024).. Questions: [Sample A](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-5.pdf), [Sample B](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-6.pdf)
 
-3- [Quiz2 Nov 26th, 2024](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-3.pdf) 
+3- Quiz2 Nov 26th, 2024 [Questions](https://github.com/myreadings1/ECE211_Prog_III/blob/main/ECE211_Prog_III-3.pdf) 
 
 4- Midterm2 Exam 120 min (Dec 3th, 2024)
 
