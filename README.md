@@ -81,9 +81,10 @@ These are two suggested compilers:
 
 ### Mini Project
 
-Mini Project implementation (Lab implementation)
+Mini Project implementation (Lab implementation)[Text](https://github.com/myreadings1/ECE211_Prog_III/blob/main/2_5348054373165456097.pdf)
 
-Due Date: Anytime between Nov 13, 2024 up to Dec 18, 2024..
+[Mini Project Video](https://youtu.be/uPTlVsIZr5o?si=gZV-EDl1VQR_d6Ns)
+
 
 
 ### List of Sample Projects
