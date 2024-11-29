@@ -72,9 +72,11 @@ These are two suggested compilers:
 
 4- Midterm2 Exam 120 min (Dec 3th, 2024)
 
-5- Final Exam (paper work)
+5- Mini Project Discussion (Dec 4th, 202)
 
-6- Final exam (Lab exam)
+6- Final Exam (paper work)
+
+7- Final exam (Lab exam)
 
 
 ### Mini Project
