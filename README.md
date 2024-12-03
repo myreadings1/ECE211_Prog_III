@@ -58,9 +58,11 @@ These are two suggested compilers:
 
 10- Data Structures Cont. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec07/)
 
-11- Memory allocation in C. [ReadMe](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/resources/mit6_087iap10_lec11/)
+11- Sort Algorithms [ReadMe](https://www.programiz.com/dsa/bubble-sort).
 
-12- Communication Channels in C 
+12- Sort with Stacks [ReadMe](https://stackoverflow.com/questions/71477605/sorting-an-array-of-int-using-stack-in-c)
+
+
 
 ### Exams
 1- Quiz1 45 min in the C Lab(Oct_9_2024)
