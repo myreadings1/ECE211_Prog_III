@@ -86,6 +86,8 @@ Mini Project implementation (Lab implementation).. [Download the PDF file](https
 
 [Mini Project Video](https://youtu.be/uPTlVsIZr5o?si=gZV-EDl1VQR_d6Ns)
 
+[Mini Project Code](https://github.com/myreadings1/ECE211_Prog_III/blob/main/Student_Managment_System.c)
+
 
 
 ### Homeworks
